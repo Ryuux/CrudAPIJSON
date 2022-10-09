@@ -1,0 +1,25 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Ryuux"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "uuidv4": "6.2.13"
+  },
+  "devDependencies": {
+    "standard": "17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Laptop",
+      "price": "$700.000",
+      "stock": "19"
+    },
+    {
+      "id": 1,
+      "name": "Phone",
+      "price": "$500.000",
+      "stock": "69"
+    },
+    {
+      "id": 2,
+      "name": "Tablet",
+      "price": "$200.000",
+      "stock": "19"
+    }
+  ]
+}
